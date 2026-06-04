@@ -186,13 +186,22 @@ GitHub Actions workflow is configured to:
 
 ---
 
-## Sample Test Result
+## Results
 
-All tests executed successfully:
+All UI and API test scenarios executed successfully across Chromium, Firefox, and WebKit browsers.
 
-```text
-6 passed
-```
+### Execution Report
+
+![Playwright Execution Report](![Uploading image.png…]()
+)
+
+**Summary**
+
+* Total Tests: 6
+* Status: Passed
+* Browsers: Chromium, Firefox, WebKit
+* UI Automation: Passed
+* API Automation: Passed
 
 ---
 

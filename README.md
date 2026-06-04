@@ -192,8 +192,8 @@ All UI and API test scenarios executed successfully across Chromium, Firefox, an
 
 ### Execution Report
 
-![Playwright Execution Report](![Uploading image.png…]()
-)
+<img width="1091" height="473" alt="image" src="https://github.com/user-attachments/assets/307409c8-b6ec-46df-9b7e-05813bff8f05" />
+
 
 **Summary**
 
